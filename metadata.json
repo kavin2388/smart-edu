@@ -1,0 +1,6 @@
+{
+  "name": "Capacity Connect",
+  "description": "The enterprise intelligence platform for scaling your organization's learning capacity. Build skills, unlock potential, and connect knowledge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
